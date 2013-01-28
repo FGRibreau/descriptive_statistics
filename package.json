@@ -3,7 +3,7 @@
   "name": "descriptive-statistics",
   "description": "Descriptive statistics for server-side JavaScript",
   "keywords": ["statistics","stats"],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/FGRibreau/descriptive_statistics",
   "repository": {
     "type": "git",

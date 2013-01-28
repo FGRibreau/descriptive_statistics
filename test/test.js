@@ -19,6 +19,13 @@ module.exports = {
     .on('end', callback.bind(null, null));
   },
 
+  test_pollution: function(t){
+    for(var key in []){
+      t.ok(false, "'"+ key + "' should not be enumerable");
+    }
+    t.done();
+  },
+
   test_sum: function(t){
     t.expect(this.data.length);
 

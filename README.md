@@ -1,4 +1,4 @@
-Descriptive Statistics [![Build Status](https://secure.travis-ci.org/FGRibreau/descriptive_statistics.png)](http://travis-ci.org/FGRibreau/descriptive_statistics) [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/)
+Descriptive Statistics [![Build Status](https://secure.travis-ci.org/FGRibreau/descriptive_statistics.png)](http://travis-ci.org/FGRibreau/descriptive_statistics) [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/) [![Deps](https://david-dm.org/FGRibreau/descriptive_statistics.png)](https://david-dm.org/FGRibreau/descriptive_statistics)
 ======================
 
 Overview
